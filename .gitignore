@@ -1,0 +1,15 @@
+build/
+cmake-build-*/
+__pycache__/
+CMakeFiles/
+CMakeCache.txt
+CTestTestfile.cmake
+Makefile
+*.cmake
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.langer
+.DS_Store

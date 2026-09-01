@@ -1,0 +1,6 @@
+# The public release is a C++ implementation. Count only C++ source files in
+# GitHub's language bar; documentation and build metadata are intentionally
+# excluded from language statistics.
+* -linguist-detectable
+*.cpp linguist-detectable linguist-language=C++
+*.hpp linguist-detectable linguist-language=C++
